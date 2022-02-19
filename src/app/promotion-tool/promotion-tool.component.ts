@@ -21,7 +21,7 @@ export class PromotionToolComponent implements OnInit {
       isSbscribed: true
     },
     {
-      icon: "../../assets/icons/cardIcon/file.png",
+      icon: "../../assets/icons/cardIcon/File.png",
       heading: "Milestone Cards",
       disc: "Celebrate the milestones of your release with your friends and family with these personalised banners",
       isSbscribed: false
@@ -51,19 +51,19 @@ export class PromotionToolComponent implements OnInit {
       isSbscribed: false
     },
     {
-      icon: "../../assets/icons/cardIcon/wifi.png",
+      icon: "../../assets/icons/cardIcon/Wifi.png",
       heading: "Radio Gupshup Broadcasting",
       disc: "Pitch your track to be aired on Radio Gupshup – the no.1 radio station in the north east",
       isSbscribed: false
     },
     {
-      icon: "../../assets/icons/cardIcon/fi_tv.png",
+      icon: "../../assets/icons/cardIcon/Fitv.png",
       heading: "TV Broadcasting",
       disc: "Get your music video broadcasted on Songdew TV and take your music to 200 Mn music listeners across the country",
       isSbscribed: false
     },
     {
-      icon: "../../assets/icons/cardIcon/comment.png",
+      icon: "../../assets/icons/cardIcon/Comment.png",
       heading: "Press Release Campaign",
       disc: "Run a press release campaign and get published in over 100 magazines ",
       isSbscribed: false
