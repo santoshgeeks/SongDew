@@ -21,7 +21,7 @@ export class PromotionToolComponent implements OnInit {
       isSbscribed: true
     },
     {
-      icon: "../../assets/icons/cardIcon/File.png",
+      icon: "../../assets/icons/cardIcon/file.png",
       heading: "Milestone Cards",
       disc: "Celebrate the milestones of your release with your friends and family with these personalised banners",
       isSbscribed: false
