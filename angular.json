@@ -29,9 +29,9 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
-            "assets": [
+            "/assets": [
               "src/favicon.ico",
-              "srcassets"
+              "src/assets"
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.css",
@@ -100,9 +100,9 @@
             "tsConfig": "tsconfig.spec.json",
             "karmaConfig": "karma.conf.js",
             "inlineStyleLanguage": "scss",
-            "assets": [
+            "/assets": [
               "src/favicon.ico",
-              "srcassets"
+              "src/assets"
             ],
             "styles": [
               "src/styles.scss"
