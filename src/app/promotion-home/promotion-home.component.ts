@@ -10,7 +10,7 @@ export class PromotionHomeComponent implements OnInit {
   listOfUploadedMusic=[
     {
       songName: "The Idea Of Her",
-      songImage: "../../assets/image/musigImage.png",
+      songImage: "../../assets/image/Musigimage.png",
       publishedOn: "Jul 1, 2021",
       noOfPlays: 0,
       disc:"Shitalchandra Kulkarni",
@@ -18,7 +18,7 @@ export class PromotionHomeComponent implements OnInit {
     },
     {
       songName: "The Idea Of Her",
-      songImage: "../../assets/image/musigImage.png",
+      songImage: "../../assets/image/Musigimage.png",
       publishedOn: "Jul 1, 2021",
       noOfPlays: 0,
       disc:"Shitalchandra Kulkarni",
@@ -26,7 +26,7 @@ export class PromotionHomeComponent implements OnInit {
     },
     {
       songName: "The Idea Of Her",
-      songImage: "../../assets/image/musigImage.png",
+      songImage: "../../assets/image/Musigimage.png",
       publishedOn: "Jul 1, 2021",
       noOfPlays: 0,
       disc:"Shitalchandra Kulkarni",
@@ -34,7 +34,7 @@ export class PromotionHomeComponent implements OnInit {
     },
     {
       songName: "The Idea Of Her",
-      songImage: "../../assets/image/musigImage.png",
+      songImage: "../../assets/image/Musigimage.png",
       publishedOn: "Jul 1, 2021",
       noOfPlays: 0,
       disc:"Shitalchandra Kulkarni",
@@ -42,7 +42,7 @@ export class PromotionHomeComponent implements OnInit {
     },
     {
       songName: "The Idea Of Her",
-      songImage: "../../assets/image/musigImage.png",
+      songImage: "../../assets/image/Musigimage.png",
       publishedOn: "Jul 1, 2021",
       noOfPlays: 0,
       disc:"Shitalchandra Kulkarni",
@@ -50,7 +50,7 @@ export class PromotionHomeComponent implements OnInit {
     },
     {
       songName: "The Idea Of Her",
-      songImage: "../../assets/image/musigImage.png",
+      songImage: "../../assets/image/Musigimage.png",
       publishedOn: "Jul 1, 2021",
       noOfPlays: 0,
       disc:"Shitalchandra Kulkarni",
