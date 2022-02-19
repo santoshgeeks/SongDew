@@ -66,7 +66,7 @@ export class PromotionToolComponent implements OnInit {
       icon: "../../assets/icons/cardicon/Comment.png",
       heading: "Press Release Campaign",
       disc: "Run a press release campaign and get published in over 100 magazines ",
-      isSbscribed: false
+      isSbscribed: true
     },
   ]
   constructor() { }
