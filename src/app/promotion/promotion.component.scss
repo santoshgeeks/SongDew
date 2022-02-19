@@ -97,6 +97,140 @@
         border: 2px solid #E0E3EB;
     }
 
+    .promotionToolArea {
+        padding: 0;
+        margin-top: 50px;
+
+        .qrCodeWidgit {
+            background: #FFFFFF;
+            border: 1px solid #E0E3EB;
+            box-sizing: border-box;
+            border-radius: 24px;
+            width: 150px;
+            height: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .qrCode{
+            margin-bottom: 30px;
+            margin-top: 10px;
+            padding: 0;
+        }
+        .qrButton {
+            border: none;
+            outline: none;
+            background: #F9F9F9;
+            box-shadow: -5px -5px 10px #FFFFFF, 4px 5px 10px rgba(216, 218, 225, 0.7);
+            border-radius: 8px;
+            width: 230px;
+            height: 50px;
+            color: #3D67FF;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        a {
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 21px;
+            text-decoration-line: underline;
+            color: rgba(34, 34, 34, 0.8);
+            width: 234px;
+
+        }
+
+        .hrLine {
+            height: 1px;
+            width: 100%;
+            background-color: #ECECEC;
+            margin-top: 50px;
+            margin-bottom: 44px;
+        }
+
+        .toolHeadin {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 36px;
+            color: #222222;
+            padding: 0;
+        }
+
+        .fileIcon {
+            width: 36px;
+            height: 36px;
+            background: #E7EBFB;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+        }
+
+        .howItWorks {
+            font-style: normal;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 170%;
+            color: #222222;
+            width: 200px;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+        }
+
+        .howItWorksDisc {
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 170%;
+            color: rgba(34, 34, 34, 0.8);
+            margin-top: 15px;
+        }
+
+        ul {
+            padding-left: 18px;
+
+            li {
+                font-style: normal;
+                font-weight: 300;
+                font-size: 14px;
+                line-height: 170%;
+                color: rgba(34, 34, 34, 0.8);
+            }
+        }
+
+        .list {
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 170%;
+            color: rgba(34, 34, 34, 0.8);
+            padding: 0;
+        }
+
+        .tooldisc {
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 170%;
+            color: rgba(34, 34, 34, 0.8);
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        .toolNote {
+            font-style: normal;
+            font-weight: 300;
+            font-size: 12px;
+            line-height: 170%;
+            color: #3D67FF;
+            padding: 0;
+            margin-top: 10px;
+        }
+    }
+
     .chipsTab {
         display: flex;
         justify-content: left;
